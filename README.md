@@ -1,2 +1,2 @@
-# AED-I---2.Sem
-Algoritmos e Estrutura de Dados I - 2º Semestre
+# Algoritmos e Estruturas de dados I
+Repositório com projetos e atividades realizados durante a disciplina de Algoritmos e Estruturas de Dados I
